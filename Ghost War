@@ -1,0 +1,114 @@
+<html>
+<meta charset='utf-8'>
+<head>
+<title>GOSHT WAR</title>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+      
+
+<style>
+  
+html,body{ 
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif, Baloo Bhaina, cursive;
+    margin: 0;
+    background-color: #000;
+    height: auto;
+    width: 100%;
+  
+  }
+
+
+
+h1 {
+  display: block;
+  font-size: 1.99em;
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 0.3em;
+  margin-right: 0.3em;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+  
+h2 {
+
+  color: #74EAFF;
+  text-align:center;
+}
+
+
+h3 {
+  display: block;
+  font-size: 1.2em;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align:center;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+
+a:link {
+   text-decoration: none;
+   color:#FFFFFF;}
+
+a:visited {
+   color:#FFFFFF;}
+a:active {
+   color:#FFFFFF;}
+a:hover {
+   color:#FFFFFF;}
+
+
+li, a {
+  line-height: 2.7;
+  font-weight: bold;
+  font-size: 1.1em;
+  }
+
+  
+.wrapper {
+  font-family: Vegur, 'PT Sans', Verdana, sans-serif, Baloo Bhaina, cursive;
+  text-align: center;
+}
+.wrapper h1 {
+  text-transform: uppercase;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+.wrapper p {
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+	
+</style>	
+
+</head>
+<body>
+
+<div class="wrapper">
+  
+  
+  
+<h1>Gosht War</h1>
+
+  <ul><li><a class="icono españa"
+href="https://www.google.com/logos/2021/halloween21/r1030_5e329/halloween21.html?hl=de&sdoodles=1">🇪🇸 - Español</a></li>
+<li><a class="icono españa" href="https://www.google.com/logos/2021/halloween21/r1030_5e329/halloween21.html?hl=de&sdoodles=1">🇬🇧 - Ingles</a></li>
+        <li><a class="icono españa" href="https://www.google.com/logos/2021/halloween21/r1030_5e329/halloween21.html?hl=de&sdoodles=1">🇮🇹 - Italiano</a></li>
+        <li><a class="icono españa" href="https://www.google.com/logos/2021/halloween21/r1030_5e329/halloween21.html?hl=de&sdoodles=1">🇫🇷 - Frances</a></li>
+      </ul>
+  
+</div>
+			
+
+
+</body>
+
+
+</html>
